@@ -5,4 +5,4 @@ print(3 * 5)
 print(3 ** 2)
 
 name = input("Как Вас зовут? ")
-print("Привет,", names)
+print("Привет,", name)
