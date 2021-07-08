@@ -13,7 +13,7 @@
 * Rebase creates a whole new series of commits, as a consequence of this, it rewrites history.
 * Merge adds a new merge commit.
 * Merge performs a three-way merge between the two latest branch snapshots and the most recent common ancestor of the two, creating a new snapshot (and commit).
-* Merge preserves the history of a branch as it happened.
+* Merge preserves the history of a branch as it happened.  
 
 > Write pros and cons for merge and rebase. Describe situations for preferably usage of these commands.
 
